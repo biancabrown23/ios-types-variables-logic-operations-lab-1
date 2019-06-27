@@ -11,7 +11,7 @@
 
 ## 1. Which data type would be the best to use for recording the total balance of an online shopping cart?
 
-// Double
+// Double because you are using decimal values for this.
 
 ***
 ## 2. Which of the following variable declarations is **incorrect**?
@@ -25,12 +25,14 @@ let emotion: String = ":)"
 
 let grade: Char = "a"
 ```
-*/ The answer to this is D. /* 
+*/ The answer to this is D. Because the type annotation is incorrect. /* 
 
 ***
 ## 3. Simplify the following using a calculator:
 
 1 + 4 * 2 / 2 + 2 = 7
+
+1 + 4 = 5 * 2 = 10 / 2 = 5 + 2 = 7
 
 ***
 ## 4. Which of the following are true? State all that apply.
